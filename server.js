@@ -1,0 +1,1 @@
+console.log("vou dá abacate para luana")
